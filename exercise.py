@@ -1,10 +1,4 @@
-# print("\nHello world")
-# x = input("enter value " )
-# print(x)
-
-
-
-# if else exercise solution by me/////////////////////////////////////////////////////////
+#/////////// if else exercise solution by me/////////////////////////////////////////////////////////
 # price = 1000000
 # good_credit = 200000
 # buyer_credit = int(input("the buyers credit is"))
@@ -14,7 +8,6 @@
 # else:
 #     down_credit = (20 / 100) * price
 #     print("\nBuyer needs too put down the credit of 20% which is: ", down_credit)
-
 
 
 # comparison operator exercise sol by me///////////////////////////////////////////////////
